@@ -1,0 +1,107 @@
+CARREGA
+city cidade
+dog cao
+cat gato
+baby bebe
+pen caneta
+pencil lapis
+a um
+about sobre
+after depois
+again de novo
+all todo
+almost quase
+also tambem
+always sempre
+and e
+any qualquer
+beautiful bonito
+because porque
+before antes
+big grande
+body corpo
+but mas
+by por
+city cidade
+day dia
+down para baixo
+every todo
+everybody todos
+everyday todo dia
+everything tudo
+everywhere em todos os lugares
+far longe
+first primeiro
+for por
+forever para sempre
+friend amigo
+from de
+good bom
+happy feliz
+he ele
+her ela
+here aqui
+him ele
+his dele
+how como
+i eu
+if se
+in em
+last ultimo
+many muitos
+me mim
+more mais
+most o mais
+much muito
+my meu
+near perto
+never nunca
+new novo
+no nao
+now agora
+of de
+on no
+only apenas
+or ou
+other outro
+people povo
+please por favor
+price preco
+same o mesmo
+she ela
+so tao
+something algo
+sometimes as vezes
+our nosso
+still ainda
+than do que
+that que
+the o
+their deles
+them eles
+there la
+they eles
+thing coisa
+this este
+time tempo
+to para
+today hoje
+under sob
+us nos
+usually geralmente
+very muito
+way jeito
+we nos
+what o que
+when quando
+where onde
+which o qual
+who que
+why por que
+with com
+without sem
+word palavra
+yes sim
+you voce
+your seu
+fim$dicionario
